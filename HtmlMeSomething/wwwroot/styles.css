@@ -5,10 +5,8 @@
 
 .columns {
     columns: 100px 2;
-    margin-right:   auto;
-    margin-left:    auto;
-    margin-bottom: auto;
-    margin-top: auto;
+   
+    margin: auto;
     width:  50em;
     text-align: justify
  }
