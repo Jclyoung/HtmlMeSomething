@@ -1,0 +1,77 @@
+﻿.title {
+    font-family: bold 15px cursive;
+
+}
+
+.columns {
+    columns: 100px 2;
+    margin-right:   auto;
+    margin-left:    auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    width:  50em;
+    text-align: justify
+ }
+
+.blue {
+    color: mediumblue;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.darkgrey {
+    color: slategray;
+}
+
+.center {
+    text-align: center;
+}
+
+IMG.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    color: darkslategrey;
+    font-family: cursive;
+}
+.columns3 {
+    columns: 50px 3;
+    text-align: justify;
+    grid-auto-columns:auto;
+
+
+
+}
+.margin5 {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+.margin10 {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.calibra {
+    font-family: Calibri;
+}
+p {
+    font-family:Calibri;
+
+}
+
+body {
+    background-image: linear-gradient(to bottom right, deepskyblue, powderblue, lightcyan, aqua); 
+}
+
